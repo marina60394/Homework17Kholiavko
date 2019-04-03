@@ -1,0 +1,23 @@
+2019-03-03 20:03:03.323 [main] INFO   - Opened site
+2019-03-03 20:03:04.529 [main] INFO   - Clicked 'Register new user'
+2019-03-03 20:03:04.994 [main] ERROR  - Keys to send should be a not null CharSequence
+2019-03-03 20:03:20.938 [main] INFO   - Opened site
+2019-03-03 20:03:22.046 [main] INFO   - Clicked 'Register new user'
+2019-03-03 20:03:22.489 [main] ERROR  - Keys to send should be a not null CharSequence
+2019-05-03 20:05:27.328 [main] INFO   - Opened site
+2019-05-03 20:05:28.362 [main] INFO   - Clicked 'Register new user'
+2019-05-03 20:05:28.787 [main] ERROR  - Keys to send should be a not null CharSequence
+2019-06-03 20:06:32.607 [main] INFO   - Opened site
+2019-06-03 20:06:33.610 [main] INFO   - Clicked 'Register new user'
+2019-07-03 20:07:18.544 [main] INFO   - Registered new user
+2019-07-03 20:07:18.610 [main] INFO   - Verified registration
+2019-08-03 20:08:03.559 [main] INFO   - Opened site
+2019-08-03 20:08:04.709 [main] INFO   - Clicked 'Register new user'
+2019-08-03 20:08:52.617 [main] INFO   - Opened site
+2019-08-03 20:08:53.733 [main] INFO   - Clicked 'Register new user'
+2019-08-03 20:08:58.943 [main] INFO   - Registered new user
+2019-08-03 20:08:59.003 [main] INFO   - Verified registration
+2019-11-03 20:11:48.046 [main] INFO   - Opened site
+2019-11-03 20:11:49.212 [main] INFO   - Clicked 'Register new user'
+2019-12-03 20:12:33.766 [main] INFO   - Registered new user
+2019-12-03 20:12:33.826 [main] INFO   - Verified registration
